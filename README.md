@@ -19,20 +19,26 @@ associated with a label from 10 classes as mentioned below.
 7 Sneaker <br>
 8 Bag <br>
 9 Ankle boot
+# Run Locally
+
 ## Requirements
 Type below command in cmd to get up and running with the dependencies of the file.
 ```
 git clone https://github.com/zubairsamo/Fashion-Mnist-Using-CNN.git
+
+```
 ## Usage
 ```
-python Fashion-Mnist-Using_CNN.py
+python Fashion-Mnist-Using-CNN.py
 ```
+
+
 ## Author
 You can get in touch with me on my LinkedIn Profile:
 
 #### Saad Hassan
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Zubair Samo-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://linkedin.com/in/zubair-samo-3a2764197)
+)](https://www.linkedin.com/in/Zubair-Samo)
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-zubairsamo-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/zubairsamo)
 
